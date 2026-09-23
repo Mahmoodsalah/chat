@@ -7,6 +7,12 @@
       "skillPath": "plugin/skills/babysit/SKILL.md",
       "computedHash": "1e0610afc6110fad8c012f44dd5aa09cdd25530198f515f49e5d94eda08a4465"
     },
+    "brag": {
+      "source": "latent-spaces/brag",
+      "sourceType": "github",
+      "skillPath": "skills/brag/SKILL.md",
+      "computedHash": "c3a7c7831d52996fcf3425a9c7bb7ece6555d8a29200730d9463ad593c7b33f9"
+    },
     "ccs-align": {
       "source": "thedotmack/claude-mem",
       "sourceType": "github",
